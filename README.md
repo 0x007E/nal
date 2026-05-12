@@ -2,7 +2,7 @@
 
 # `NAL` - NAND Logic Board
 
-The `NAL` is a board with an [CD4011](#additional-information) or any other 4-channel `NAND` gate driver. The board itself can be driven with a voltage from `5-15V`. The board offers the possibility to `NAND` signals from buttons, switches or any other logic board.
+The `NAL` is a board with an [CD4011](#additional-information) or any other 4-channel `NAND` gate driver that meets the pin requirements. The board itself can be driven from `5` to `15V`. The board offers the possibility to `NAND` signals from buttons, switches or any other logic board.
 
 | Experience  | Level                                                                               |
 |:------------|:-----------------------------------------------------------------------------------:|
